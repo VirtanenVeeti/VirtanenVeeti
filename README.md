@@ -30,7 +30,7 @@ I’m Veeti from Finland, studying to become an engineer in information and comm
 
 
 ## 📬 Contact
-- [LinkedIn](www.linkedin.com/in/veeti-virtanen-b43527220/)
+- [LinkedIn](https://www.linkedin.com/in/veeti-virtanen-b43527220)
 - [Twitter](https://twitter.com/your-twitter/)
 - [Personal Website/Blog](https://yourwebsite.com/)
 
