@@ -19,6 +19,7 @@ I’m Veeti from Finland, studying to become an engineer in information and comm
 <img align="left" alt="Java" width="30px" style="padding-righgt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-righgt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-righgt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-righgt:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
 <br> <br>
 <br>
 
