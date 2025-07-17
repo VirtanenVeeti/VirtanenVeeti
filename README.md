@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Veeti Virtanen!
+# 👋 Hello!
 
 ##### 😎 About Me
 I’m Veeti from Finland, studying to become an engineer in information and communication technology. My focus areas are cybersecurity and data networks, but I’m also deeply passionate about robotics and artificial intelligence.
